@@ -1,16 +1,31 @@
-# React + Vite
+# 📚 Projeto de estudo — CRUD com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido com o objetivo de aprender e praticar a implementação de um CRUD simples utilizando React.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- Chakra UI
 
-## React Compiler
+## 📌 Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A aplicação permite:
 
-## Expanding the ESLint configuration
+- Criar novos registros  
+- Listar registros cadastrados  
+- Editar informações existentes  
+- Excluir registros  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Objetivo do projeto
+
+Compreender na prática o funcionamento das operações CRUD (Create, Read, Update, Delete), reforçando conceitos como:
+
+- Componentização
+- Manipulação de estado
+- Controle de formulários
+- Organização básica de projeto
+
+---
+
+Projeto desenvolvido para fins de estudo.
